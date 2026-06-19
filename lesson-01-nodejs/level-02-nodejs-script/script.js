@@ -1,0 +1,1 @@
+console.log("To run Javascript files in the terminal first navagate to the file path using cd and run the input node followed by the file name.")

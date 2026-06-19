@@ -1,1 +1,2 @@
-console.log("Attempting to access browser features...");
+localStorage.setItem("myPet", "dog")
+const pTag = document.querySelector("p")

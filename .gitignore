@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -141,3 +142,17 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+=======
+*
+!.gitignore
+!lesson-**
+!lesson-**/**/*
+!package.json
+!*.code-workspace
+!*.min.js
+!.tests
+!.tests/**/*
+!.vscode/
+!.vscode/**/*
+node_modules/
+>>>>>>> master

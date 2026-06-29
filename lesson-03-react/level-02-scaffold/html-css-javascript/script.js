@@ -1,0 +1,1 @@
+console.log("Scaffolding is the process of setting up the basic structure of a web project by creating and connecting the HTML, CSS, and JavaScript files before building the application's features.");

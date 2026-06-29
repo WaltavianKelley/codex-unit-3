@@ -1,0 +1,23 @@
+{
+  "name": "level-09-module-repository",
+  "version": "1.0.0",
+  "description": "THINgs",
+  "homepage": "https://github.com/WaltavianKelley/codex-unit-3#readme",
+  "bugs": {
+    "url": "https://github.com/WaltavianKelley/codex-unit-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaltavianKelley/codex-unit-3.git"
+  },
+  "license": "ISC",
+  "author": "Waltavian",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "figlet": "^1.11.0"
+  }
+}

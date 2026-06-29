@@ -1,0 +1,1 @@
+console.log("Npx stands for Node Package Execute, its primary purpose of npx is to execute Node.js packages directly from the npm registry without the need to install them.")

@@ -1,1 +1,1 @@
-export default "";
+export default "Use import, any variable name, the from keword, and the reletive path file of a default export.";

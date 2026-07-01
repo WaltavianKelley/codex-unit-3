@@ -1,0 +1,25 @@
+{
+  "name": "level-06-no-npx",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/WaltavianKelley/codex-unit-3https:#readme",
+  "bugs": {
+    "url": "https://github.com/WaltavianKelley/codex-unit-3https:/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaltavianKelley/codex-unit-3https:.git"
+  },
+  "license": "ISC",
+  "author": "Waltavian",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "message1": "npx cowsay Is npx required?",
+    "message2": "cowsay Is npx required?"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}

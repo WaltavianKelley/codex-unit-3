@@ -1,0 +1,1 @@
+console.log("The npx command is required to run packages that are installed locally without installing them globally. If a package is installed globally or is already available as an npm script, npx is not required.")
